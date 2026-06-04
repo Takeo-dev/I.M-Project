@@ -81,6 +81,26 @@ Through this project, I gained experience in:
 
 https://takeo-dev.github.io/I.M-Project/
 
+## Screenshots
+
+### Logic Page
+![Login Page](screenshots/login.png)
+
+### Home Page (1)
+![Home Page](screenshots/home1.png)
+
+### Home Page (2)
+![Home Page](screenshots/home2.png)
+
+### Services Page
+![Services Page](screenshots/services.png)
+
+### About Page
+![About Page](screenshots/about.png)
+
+### Contact Page
+![Contact Page](screenshots/contact.png)
+
 ## Author
 
 Jamil Ahmed
